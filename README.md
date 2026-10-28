@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:0E6FFF&height=210&section=header&text=Richmondklab&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Network%20Engineer%20%7C%20AI%20Security%20Practitioner%20%7C%20Cisco%20NetAcad%20Instructor&descSize=17&descAlignY=60" alt="Richmondklab banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:0E6FFF&height=210&section=header&text=Richmondklab&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Network%20Engineer%20%7C%20AI%20Security%20Practitioner%20%7C%20Cisco%20NetAcad%20Instructor&descSize=17&descAlignY=60" alt="Richmondlab banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0E6FFF&center=true&vCenter=true&width=900&lines=Network+Engineering;AI+Security+Practitioner;Cisco+NetAcad+Instructor;Current+Focus%3A+Network+Engineering" alt="Typing SVG" />
 
