@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:0E6FFF&height=210&section=header&text=Richmondklab&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Network%20Engineer%20%7C%20AI%20Security%20Practitioner%20%7C%20Cisco%20NetAcad%20Instructor&descSize=17&descAlignY=60" alt="Richmondlab banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:0E6FFF&height=210&section=header&text=Richmondlab&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Network%20Engineer%20%7C%20AI%20Security%20Practitioner%20%7C%20Cisco%20NetAcad%20Instructor&descSize=17&descAlignY=60" alt="Richmondlab banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0E6FFF&center=true&vCenter=true&width=900&lines=Network+Engineering;AI+Security+Practitioner;Cisco+NetAcad+Instructor;Current+Focus%3A+Network+Engineering" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/richmondklab"><img src="https://img.shields.io/badge/GitHub-richmondklab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/richmondlab"><img src="https://img.shields.io/badge/GitHub-richmondlab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://img.shields.io/badge/Cisco-NetAcad%20Instructor-049fd9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco NetAcad Instructor" />
 <img src="https://img.shields.io/badge/Focus-Network%20Engineering-0A2540?style=for-the-badge&logo=cisco&logoColor=white" alt="Focus: Network Engineering" />
 
@@ -91,8 +91,8 @@ Network engineer who designs, builds and secures enterprise networks, and automa
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richmondklab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richmondklab&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=richmondlab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richmondlab&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
 </p>
 
 <div align="center">
